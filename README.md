@@ -13,7 +13,7 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 Qué cosas necesitas para instalar el software y cómo instalarlas
 
 ```
-Give examples
+git clone https://github.com/proyecMariana/JavaPrograma
 ```
 
 ### Instalación
